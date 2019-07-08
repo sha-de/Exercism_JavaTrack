@@ -1,0 +1,29 @@
+import java.lang.*;
+import java.util.*;
+class RnaTranscription {
+
+    String transcribe(String dnaStrand) {
+       
+		String dna=dnaStrand.toUpperCase();
+		StringBuilder sb=new StringBuilder();
+		
+		for(int i=0;i<dna.length();i++){
+			char c=dna.charAt(i);
+			
+			if(c!='A' && c!='C' && c!='G' && c!='T')
+				return null;
+			else if(c=='A')
+				sb.append('U');
+			else if(c=='C')
+				sb.append('G');
+			else if(c=='G')
+				sb.append('C');
+			else if(c=='T')
+				sb.append('A');
+		}
+		
+		return sb.toString();
+	   
+	   }
+
+}
