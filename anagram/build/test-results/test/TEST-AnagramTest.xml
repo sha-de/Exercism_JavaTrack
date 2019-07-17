@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramTest" tests="12" skipped="11" failures="0" errors="0" timestamp="2019-07-03T16:55:03" hostname="LAPTOP-C3P44FS0" time="0.008">
+  <properties/>
+  <testcase name="testCaseInsensitiveWhenBothAnagramAndSubjectStartWithUpperCaseLetter" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testEliminateAnagramSubsets" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testAnagramMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testIdenticalWordRepeatedIsNotAnagram" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDetectMultipleAnagramsForLongerWord" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDetectMultipleAnagrams" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testWordsAreNotAnagramsOfThemselvesCaseInsensitive" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCaseInsensitiveWhenSubjectStartsWithUpperCaseLetter" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testCaseInsensitiveWhenAnagramStartsWithUpperCaseLetter" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testDetectLongerAnagram" classname="AnagramTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testNoMatches" classname="AnagramTest" time="0.002"/>
+  <testcase name="testEliminateAnagramsWithSameChecksum" classname="AnagramTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
